@@ -23,7 +23,7 @@ public class PagamentoService {
     @Autowired
     private ModelMapper modelMapper;
 
-    @Autowired
+    //@Autowired
     private PedidoClient pedido;
 
 
